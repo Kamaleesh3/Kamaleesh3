@@ -1,4 +1,3 @@
-[![MasterHead](https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s1280x1920/867979c9a1d803b0d13ff8cdc7393fcf33c84511.gifv)](https://rishavchanda.io)
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <h1 align="center">Hi 👋, I'm Kamaleesh</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
