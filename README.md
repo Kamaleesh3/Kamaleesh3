@@ -1,5 +1,6 @@
+## Hi there 👋 It's me Kamaleesh
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-<h1 align="center">Hi 👋, I'm Kamaleesh</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 <h4>A highly motivated and adaptable professional seeking to transition into a new career in Software profession. I am eager to leverage my transferable skills and passion for IT industry to make a positive impact in a new role. I am confident in my ability to excel in a new environment and contribute to the success of my team and organization. </h4>
 
