@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **MERN stack development in NSchool Academy**
 
-- 📫 How to reach me **skamaleesh@gmail.com**
+- 📫 To reach me at **skamaleesh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamaleesh-s-5b5a092bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh6" height="30" width="40" /></a>
